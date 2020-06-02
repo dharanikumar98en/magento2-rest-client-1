@@ -1,4 +1,4 @@
-# Magento2 REST client
+# Magento2 REST client custom
 
 This Node.js library enables JavaScript applications to communicate with Magento2 sites using their REST API.
 This module based on the magento2-rest-client module created by Marko Novak (2016).
